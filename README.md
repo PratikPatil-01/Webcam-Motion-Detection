@@ -1,3 +1,3 @@
 # Webcam-Motion-Detection
 
-OpenCV (Python is a library of Python bindings designed to solve computer vision problems)
+OpenCV (open-source library for the computer vision, machine learning, and image processing and now it plays a major role in real-time operation)
